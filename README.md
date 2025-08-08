@@ -5,8 +5,7 @@ Users can view, add, edit, and delete books stored in a MongoDB database.
 
 <img width="1919" height="1011" alt="Screenshot 2025-08-08 135307" src="https://github.com/user-attachments/assets/adfc6733-a573-4ae7-95a0-328553c5c8ee" />
 <img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/90b8a16e-b502-4792-b2e1-57ea66f27d44" />
-<img width="1919" height="880" alt="Screenshot 2025-08-08 135841" src="https://github.com/user-attachments/assets/2bd5b71a-89ce-41ea-8ced-494b095027ac" />
-
+<img width="1916" height="1005" alt="Screenshot 2025-08-08 135444" src="https://github.com/user-attachments/assets/e4d6a13d-1fc7-4570-9162-2ce53cedbaf4" />
 
 ## 🚀 Features
 - 📖 View a list of books
