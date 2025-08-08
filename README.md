@@ -3,13 +3,15 @@
 A **MERN stack** application to manage books.  
 Users can view, add, edit, and delete books stored in a MongoDB database.
 
+<img width="1919" height="1011" alt="Screenshot 2025-08-08 135307" src="https://github.com/user-attachments/assets/adfc6733-a573-4ae7-95a0-328553c5c8ee" />
 ---
 
 ## 🚀 Features
 - 📖 View a list of books
 - ➕ Add a new book
 - ✏️ Edit book details
-- ❌ Delete books
+- ❌ Delete books   
+
 - 📱 Fully responsive design
 
 ---
